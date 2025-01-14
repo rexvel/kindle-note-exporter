@@ -1,1 +1,1 @@
-# kindle-note-exporter
+# Kindle note exporter
